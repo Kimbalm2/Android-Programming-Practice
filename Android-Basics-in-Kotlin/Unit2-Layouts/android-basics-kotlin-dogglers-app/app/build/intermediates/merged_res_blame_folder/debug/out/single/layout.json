@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Projects\\Android-Programming-Practice\\Android-Basics-in-Kotlin\\Unit2-Layouts\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\vertical_horizontal_list_item.xml",
+        "source": "C:\\Projects\\Android-Programming-Practice\\Android-Basics-in-Kotlin\\Unit2-Layouts\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\layout\\vertical_horizontal_list_item.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android-Programming-Practice\\Android-Basics-in-Kotlin\\Unit2-Layouts\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Projects\\Android-Programming-Practice\\Android-Basics-in-Kotlin\\Unit2-Layouts\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android-Programming-Practice\\Android-Basics-in-Kotlin\\Unit2-Layouts\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_horizontal_list.xml",
+        "source": "C:\\Projects\\Android-Programming-Practice\\Android-Basics-in-Kotlin\\Unit2-Layouts\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\layout\\activity_horizontal_list.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android-Programming-Practice\\Android-Basics-in-Kotlin\\Unit2-Layouts\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\grid_list_item.xml",
+        "source": "C:\\Projects\\Android-Programming-Practice\\Android-Basics-in-Kotlin\\Unit2-Layouts\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\layout\\grid_list_item.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android-Programming-Practice\\Android-Basics-in-Kotlin\\Unit2-Layouts\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_vertical_list.xml",
+        "source": "C:\\Projects\\Android-Programming-Practice\\Android-Basics-in-Kotlin\\Unit2-Layouts\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\layout\\activity_vertical_list.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Android-Programming-Practice\\Android-Basics-in-Kotlin\\Unit2-Layouts\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_grid_list.xml",
+        "source": "C:\\Projects\\Android-Programming-Practice\\Android-Basics-in-Kotlin\\Unit2-Layouts\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\layout\\activity_grid_list.xml"
+    }
+]
