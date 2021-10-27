@@ -32,16 +32,16 @@ class OrderViewModel : ViewModel() {
         resetOrder()
     }
 
-    fun setQuantity (numberCupcakes: Int){
+    fun setQuantity(numberCupcakes: Int) {
         _quantity.value = numberCupcakes
         updatePrice()
     }
 
-    fun setFlavor (desiredFlavor: String){
+    fun setFlavor(desiredFlavor: String) {
         _flavor.value = desiredFlavor
     }
 
-    fun setDate(pickupDate: String){
+    fun setDate(pickupDate: String) {
         _date.value = pickupDate
         updatePrice()
     }
